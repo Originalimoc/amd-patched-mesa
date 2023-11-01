@@ -21,4 +21,4 @@ cd ../..
 makepkg -se
 ```
 
-Compiled on latest Arch LLVM 16
+Compiled on latest Arch LLVM 16, mainly for use with flatpak bundle(icd.d files path modified)
