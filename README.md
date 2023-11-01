@@ -21,4 +21,5 @@ cd ../..
 makepkg -se
 ```
 
-Compiled on latest Arch LLVM 16, mainly for use with flatpak bundle(icd.d files path modified)
+Compiled on latest Arch LLVM 16
+Mainly for use with flatpak bundle(icd.d files path modified), and libsensors and libedit is not part of mesa
