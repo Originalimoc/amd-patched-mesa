@@ -6,5 +6,5 @@ moduledir=/usr/lib/d3d
 Name: d3d
 Description: Native D3D driver modules
 Version: 1.0.0
-Requires.private: libdrm >=  2.4.117
+Requires.private: libdrm >=  2.4.118
 Cflags: -I${includedir}
